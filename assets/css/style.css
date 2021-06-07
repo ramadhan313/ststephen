@@ -1,0 +1,195 @@
+.carousel .bannerimage{
+    height: 40vh;
+    width: 10%;
+
+}
+.carousel h5{
+    color:red;
+    font-size: 24px;
+    text-transform:capitalize;
+
+}
+.carousel p{
+    background-color: rgba(98, 0, 255, 0.097);
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-style: italic;
+    
+    padding:10px
+}
+/* marketing section */
+.marketing section i{
+   width: 100px;
+   height: 100px;
+   color: chocolate;
+   border: 8px solid chocolate;
+   padding: 40px;
+   border-radius: 40px;
+  
+  
+}
+.border{
+    background:red;
+    height: 5px!important;
+    width: 20px;
+    margin: 10px 0px;
+
+}
+.marketingsection i:hover{
+    border: radius 50px;
+}
+
+.marketingsection p.read{
+    font-style: italic;
+    max-width: 50%;
+    text-align: center;
+}
+.marketingsection i{
+    width: 100px;
+    height: 100px;
+    color: chocolate;
+     border-style:       ;
+    padding: 20px;
+    border-radius: 40px;
+    transtion: 0.2s linear
+}
+
+.imagesection img{
+    box-shadow:chocolate 20px 20px;
+
+}
+.memberSection{
+    padding: 100px;
+     color: white;
+
+    
+}
+.memberSection h2{
+    font-weight:bold ;
+    font-size: 24px;
+    text-align: center;
+    color: rgb(170, 153, 153);
+}
+
+.memberSection .border{
+    background-color:green;
+    height: 7px!important;
+    width: 50px;
+    margin: 10px 2px;
+
+}
+.memberSection p{
+    font-weight: 900;
+    font-size: 24px;
+    text-align: center;
+    color:orange;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.OurExcellence span{
+    color: orange;
+    text-decoration: underline;
+    text-transform:lowercase;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+
+
+}
+.OurExcellence img{
+    box-shadow: rgb(175, 103, 52) 10px -10px;
+    color:green;
+    width: 70%;
+    height: 100%;
+
+}
+.OurExcellence img:hover{
+    transform: scale(1.5);
+    transition: 0.7s linear;
+    border-radius: 50%;
+
+}
+.newsSection h2 span{
+    color: chocolate !important;
+}
+.newsSection img{
+    height: 150px;
+}
+.newsSection .card p{
+    text-align: right !important;
+    font-size: 14px;
+
+}
+.newsSection .row{
+    max-width: 90% !important;
+}
+.newsSection img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    transition: scale(1.5);
+    transition: 0.5s linear;
+}
+.newsSection .card{
+    transition: 0.5 linear;
+}
+.newsSection .card:hover{
+    box-shadow:0 0 10px chocolate;
+    cursor: progress;
+    transition: 0.7s linear;
+    margin-bottom: 10px;
+
+}
+footer{
+    color:black;
+
+}
+footer h5{
+    color:red;
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+footer p span{
+    font-weight: 300;
+
+}
+footer ul.social li{
+    display: inline-block !important;
+    float: left;
+    margin-right: 10px;
+    width: 50px;
+    font: size 28px;
+    border: 1px solid red;
+    border-radius: 40%;
+    
+
+}
+
+footer ul li a i{
+    position: relative;
+    margin: 10px 10px;
+    color: red;
+    
+}
+footer ul li:hover{
+    border-radius: 50%;
+    margin-right: 10px;
+
+}
+footer ul.quick-links li{
+    list-style-type: none;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
