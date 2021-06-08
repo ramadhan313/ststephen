@@ -48,7 +48,7 @@
     width: 100px;
     height: 100px;
     color: chocolate;
-     border-style:       ;
+     border-style:  dotted     ;
     padding: 20px;
     border-radius: 40px;
     transtion: 0.2s linear
@@ -180,6 +180,15 @@ footer ul li:hover{
 footer ul.quick-links li{
     list-style-type: none;
     color: red;
+}
+.bannersection{
+    background-image: url('../images/7.jpg');
+    color: chocolate;
+
+}
+.accomplishment{
+    box-shadow: 10px 10px red;
+
 }
 
 
