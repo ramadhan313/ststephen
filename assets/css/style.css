@@ -35,6 +35,7 @@
     margin: 10px 0px;
 
 }
+
 .marketingsection i:hover{
     border: radius 50px;
 }
@@ -44,6 +45,7 @@
     max-width: 50%;
     text-align: center;
 }
+
 .marketingsection i{
     width: 100px;
     height: 100px;
@@ -54,16 +56,19 @@
     transtion: 0.2s linear
 }
 
+
 .imagesection img{
     box-shadow:chocolate 20px 20px;
 
 }
+
 .memberSection{
     padding: 100px;
      color: white;
 
     
 }
+
 .memberSection h2{
     font-weight:bold ;
     font-size: 24px;
@@ -78,6 +83,7 @@
     margin: 10px 2px;
 
 }
+
 .memberSection p{
     font-weight: 900;
     font-size: 24px;
@@ -86,6 +92,7 @@
     font-family: 'Times New Roman', Times, serif;
 
 }
+
 .OurExcellence span{
     color: orange;
     text-decoration: underline;
@@ -97,6 +104,7 @@
 
 
 }
+
 .OurExcellence img{
     box-shadow: rgb(175, 103, 52) 10px -10px;
     color:green;
@@ -104,35 +112,43 @@
     height: 100%;
 
 }
+
 .OurExcellence img:hover{
     transform: scale(1.5);
     transition: 0.7s linear;
     border-radius: 50%;
 
 }
+
 .newsSection h2 span{
     color: chocolate !important;
 }
 .newsSection img{
     height: 150px;
 }
+
 .newsSection .card p{
     text-align: right !important;
     font-size: 14px;
 
 }
+
 .newsSection .row{
     max-width: 90% !important;
 }
+
 .newsSection img:hover{
     opacity: 0.5;
     cursor: pointer;
     transition: scale(1.5);
+   
     transition: 0.5s linear;
 }
+
 .newsSection .card{
     transition: 0.5 linear;
 }
+
 .newsSection .card:hover{
     box-shadow:0 0 10px chocolate;
     cursor: progress;
@@ -140,20 +156,24 @@
     margin-bottom: 10px;
 
 }
+
 footer{
     color:black;
 
 }
+
 footer h5{
     color:red;
     text-transform: uppercase;
     font-weight: 800;
 
 }
+
 footer p span{
     font-weight: 300;
 
 }
+
 footer ul.social li{
     display: inline-block !important;
     float: left;
@@ -166,21 +186,25 @@ footer ul.social li{
 
 }
 
+
 footer ul li a i{
     position: relative;
     margin: 10px 10px;
     color: red;
     
 }
+
 footer ul li:hover{
     border-radius: 50%;
     margin-right: 10px;
 
 }
+
 footer ul.quick-links li{
     list-style-type: none;
     color: red;
 }
+
 .bannersection{
     background-image: url('../images/7.jpg');
     color: chocolate;
@@ -189,6 +213,14 @@ footer ul.quick-links li{
 .accomplishment{
     box-shadow: 10px 10px red;
 
+}
+.ourhistory{
+    background-image: url("../images/6.jpg");
+    padding: 20px;
+    color: crimson;
+    min-height: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
